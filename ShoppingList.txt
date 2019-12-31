@@ -4,3 +4,5 @@ Cherries
 Oranges
 Carrots
 Milk
+Cereals
+Cucumbers
